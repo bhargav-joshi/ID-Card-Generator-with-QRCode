@@ -22,3 +22,15 @@ Install from here - > https://www.python.org/downloads/
 
 
 #### This is Command Line User Input Project and It will create a Image of the Entered Details with QR Code.
+
+![](https://github.com/bhargav-joshi/ID-Card-Generator-in-Python-with-QR-Code/blob/master/Assets/CLI.JPG)
+
+### This is ID Generated :
+
+<img src ="https://github.com/bhargav-joshi/ID-Card-Generator-in-Python-with-QR-Code/blob/master/Assets/Bhargav.png" width="400px" align="center">
+
+### This is QR Code Of ID Generated :
+
+<img src ="https://github.com/bhargav-joshi/ID-Card-Generator-in-Python-with-QR-Code/blob/master/Assets/191022005.bmp" width="200px" align="center">
+
+⭐️ *From https://github.com/bhargav-joshi* <br>
